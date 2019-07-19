@@ -1,0 +1,24 @@
+{
+  "name": "yangguanyong.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangguanyong/yangguanyong.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangguanyong/yangguanyong.github.io/issues"
+  },
+  "homepage": "https://github.com/yangguanyong/yangguanyong.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
